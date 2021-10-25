@@ -190,4 +190,3 @@ button1 = Button(frame1, text="convert", width=10, command=get_input)
 button1.pack(padx=5, pady=5, anchor=W)
 root.mainloop()
 
-# check if results are 99.99 % accurate
